@@ -9,6 +9,9 @@ Openposeによって出力されたスピン画像とjsonファイルを用い�
 
 ffmpegでフィギュアスケートの動画から画像を切り出し、Openposeによって出力した画像ファイルとjsonファイルを使っています。
 
+ directory_name = "skate_2014gpf"
+
+"skate_2014gpf"の部分に画像ファイルとjsonファイルを入れたファイル名を記述してください。
 
 ## 環境
 - python3.5.4
